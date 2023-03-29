@@ -1,3 +1,3 @@
 # About Me 
 
-Hi my name is Daniel Pak. Electrical **and** Computer Engineering is my major. Thank you **bows**.
+My name is Daniel Pak and I am a second year studying Electrical and Computer Engineering with a focus in Machine Learning and Embedded Systems.
